@@ -5,6 +5,11 @@
     "require": {
         "php": ">=5.4.16"
     },
+    "autoload-dev": {
+        "psr-4": {
+            "emanueledona\\proviamo\\": "src"
+        }
+    },
     "license": "MIT",
     "minimum-stability": "dev"
 }

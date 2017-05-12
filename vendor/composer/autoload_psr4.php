@@ -7,6 +7,4 @@ $baseDir = dirname($vendorDir);
 
 return array(
     'emanueledona\\proviamo\\' => array($baseDir . '/src'),
-    'Cake\\Test\\' => array($vendorDir . '/cakephp/cakephp/tests'),
-    'App\\Test\\' => array($baseDir . '/tests'),
 );

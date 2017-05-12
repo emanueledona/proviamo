@@ -11,28 +11,12 @@ class ComposerStaticInit0f946506822d56baf314563a08f25397
         array (
             'emanueledona\\proviamo\\' => 22,
         ),
-        'C' => 
-        array (
-            'Cake\\Test\\' => 10,
-        ),
-        'A' => 
-        array (
-            'App\\Test\\' => 9,
-        ),
     );
 
     public static $prefixDirsPsr4 = array (
         'emanueledona\\proviamo\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',
-        ),
-        'Cake\\Test\\' => 
-        array (
-            0 => __DIR__ . '/..' . '/cakephp/cakephp/tests',
-        ),
-        'App\\Test\\' => 
-        array (
-            0 => __DIR__ . '/../..' . '/tests',
         ),
     );
 

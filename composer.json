@@ -1,6 +1,14 @@
 {
-  "require" : {
-    "php":">5.4.16"
-  },
-  "minimum-stability":"dev"
+    "name": "emanueledona/proviamo",
+    "description": "My first Composer project",
+    "authors": [
+        {
+            "name": "Your Name",
+            "email": "your@name.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+
+    }
 }

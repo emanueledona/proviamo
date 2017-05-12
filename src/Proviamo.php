@@ -7,5 +7,9 @@ class Proviamo {
     return "hello world!";
   }
 
+  public function test() {
+    return "hello world!";
+  }
+
 }
 

@@ -1,0 +1,10 @@
+{
+    "name": "emanueledona/proviamo",
+    "description": "test",
+    "type": "library",
+    "require": {
+        "php": ">=5.4.16"
+    },
+    "license": "MIT",
+    "minimum-stability": "dev"
+}

@@ -1,20 +1,14 @@
 {
     "name": "emanueledona/proviamo",
-    "type": "project",
-    "license": "MIT",
     "require": {
-        "php": ">=5.4.16"
     },
     "require-dev": {
     },
     "suggest": {
-        "phpunit/phpunit": "Allows automated tests to be run without system-wide install."
     },
     "autoload": {
         "psr-4": {
             "emanueledona\\proviamo\\": "src"
-        },
-				"classmap"	:	[
-				]
+        }
     }
 }

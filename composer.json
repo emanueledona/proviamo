@@ -1,13 +1,10 @@
 {
     "name": "emanueledona/proviamo",
-    "license": "MIT",
+    "license": "LGPLv3",
     "require": {
         "php": ">=5.4.16"
     },
     "require-dev": {
-    },
-    "suggest": {
-        "phpunit/phpunit": "Allows automated tests to be run without system-wide install."
     },
     "autoload": {
         "psr-4": {

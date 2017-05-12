@@ -1,14 +1,9 @@
 {
     "name": "emanueledona/proviamo",
-    "description": "My first Composer project",
-    "authors": [
-        {
-            "name": "Your Name",
-            "email": "your@name.com"
-        }
-    ],
-    "minimum-stability": "dev",
+    "type": "library",
     "require": {
-
-    }
+        "php": ">=5.4.16"
+    },
+    "license": "MIT",
+    "minimum-stability": "dev"
 }
